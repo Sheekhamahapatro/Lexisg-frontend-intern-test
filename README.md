@@ -74,3 +74,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 A React + Tailwind CSS legal assistant simulation that displays AI-generated answers with citations and links to relevant PDF judgments. Built for Lexi frontend internship assignment.
 >>>>>>> f5f993039e274747ce38adce8918a5d5e4383d2a
 "# Lexisg-frontend-intern-test" 
+![image](https://github.com/user-attachments/assets/4bdcf2ff-65ef-4dc5-9a8d-656dbc660e23)
+
+
+https://github.com/user-attachments/assets/5f273bb3-65ae-40a5-932c-092c2d19bc46
+
+
